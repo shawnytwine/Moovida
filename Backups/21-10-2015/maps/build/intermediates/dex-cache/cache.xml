@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-d0b5716418da16898bf9bd644dcac011a8ca6dd7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-7001cf8898d5f065308d11cad7f59112151ef730.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-c22a901292a09d7995e8f6b634691fd70d5d3f7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-ec7d42fff5debb9d3747c15373d955999f0b9253.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-3774d71814568ac1034e49f9a6fc91562f8199f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-d6a868dd6f7a2d2dc9b1d3e2e11c3024675e0cb6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-a870f17d76f54af5db77f91ba08ec779586cd36a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-a368f0cda196717557ac8942bdb22b500095ca2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-f275428c3e67a1ae8168c6ccc5cc0c192c257bdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c6779e7b654661b5d1c84e799ded1cd54e9f5396.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-3f648d03244000f51398af8770b41aabab3fac33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-248f38822ff6f1c2b7083ce19dbb082bfc207761.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-fc82afeea81a9174614d6ec1e0b22593c6966551.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-2d2814018b11733464fe58730d1f6daa90fa90cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-e265c59c17f0a6dda035badf638084a2f105a7b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-02a80111fa12d10939c87025f046bdaad70d02d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-117f5bf1a101678d2d124996abf6c9a7d58fb155.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-48841394dae79a3c5566ea1d6af919fa3a89553c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-b4eecf7c32025e91ed37d00e3d773e96ff5674cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-7a01164c300a93070c5f9513f4a2a8780ab083b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-9f5975a04b1c9ca10cefbdb33c618716c7927ff8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-2bb594922e910245420823349ed37e43362e737c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-2ff3a91e83aa1b93b2905a5e75f8225ead738d43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-8cacca33e68547aecce0c3d8411481d0f690c3a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-9acd40152db9c8cc57494950a8c428d1180ac162.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\Alessio\StudioProjects\Release\maps\app\build\intermediates\pre-dexed\debug\classes-d19f16fedfc93bc3c929bf7cf9310c862ffa890f.jar" />
+    </item>
+
+</items>

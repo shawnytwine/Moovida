@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mapdemo"
+    android:versionCode="10"
+    android:versionName="2.15.0" >
+ <!-- Copied from Google Maps Library/AndroidManifest.xml. -->
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- External storage for caching. -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- My Location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <!-- Maps API needs OpenGL ES 2.0. -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+ <!-- End of copy. -->
+    <application
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/demo_title" >
+
+        <!--
+         ** You need to replace the key below with your own key. **
+         The example key below will not be accepted because it is not linked to the
+         certificate which you will use to sign this application.
+         See: https://developers.google.com/maps/documentation/android/start
+         for instructions on how to get your own key.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAITFIbJgX1a84jsVPz0JS9S_fPYZSvujw" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.example.mapdemo.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.mapdemo.LegalInfoActivity"
+            android:label="@string/legal_info" />
+        <activity
+            android:name="com.example.mapdemo.BasicMapDemoActivity"
+            android:label="@string/basic_map_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.CameraDemoActivity"
+            android:label="@string/camera_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.CircleDemoActivity"
+            android:label="@string/circle_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.EventsDemoActivity"
+            android:label="@string/events_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.GroundOverlayDemoActivity"
+            android:label="@string/ground_overlay_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.IndoorDemoActivity"
+            android:label="@string/indoor_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.LayersDemoActivity"
+            android:label="@string/layers_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.LiteDemoActivity"
+            android:label="@string/lite_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.LiteListDemoActivity"
+            android:label="@string/lite_list_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.LocationSourceDemoActivity"
+            android:label="@string/location_source_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.MapInPagerDemoActivity"
+            android:label="@string/map_in_pager_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.MarkerDemoActivity"
+            android:label="@string/marker_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.MultiMapDemoActivity"
+            android:label="@string/multi_map_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.MyLocationDemoActivity"
+            android:label="@string/my_location_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.OptionsDemoActivity"
+            android:label="@string/options_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.PolygonDemoActivity"
+            android:label="@string/polygon_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.PolylineDemoActivity"
+            android:label="@string/polyline_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.ProgrammaticDemoActivity"
+            android:label="@string/programmatic_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.RawMapViewDemoActivity"
+            android:label="@string/raw_map_view_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.RetainMapDemoActivity"
+            android:label="@string/retain_map_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.SaveStateDemoActivity"
+            android:label="@string/save_state_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.SnapshotDemoActivity"
+            android:label="@string/snapshot_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.SplitStreetViewPanoramaAndMapDemoActivity"
+            android:label="@string/split_street_view_panorama_and_map_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.StreetViewPanoramaBasicDemoActivity"
+            android:label="@string/street_view_panorama_basic_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.StreetViewPanoramaEventsDemoActivity"
+            android:label="@string/street_view_panorama_events_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.StreetViewPanoramaNavigationDemoActivity"
+            android:label="@string/street_view_panorama_navigation_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.StreetViewPanoramaOptionsDemoActivity"
+            android:label="@string/street_view_panorama_options_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.StreetViewPanoramaViewDemoActivity"
+            android:label="@string/street_view_panorama_view_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.TileCoordinateDemoActivity"
+            android:label="@string/tile_coordinate_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.TileOverlayDemoActivity"
+            android:label="@string/tile_overlay_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.UiSettingsDemoActivity"
+            android:label="@string/ui_settings_demo_label" />
+        <activity
+            android:name="com.example.mapdemo.VisibleRegionDemoActivity"
+            android:label="@string/visible_region_demo_label" />
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+
+        <meta-data
+            android:name="com.google.android.gms.wallet.api.enabled"
+            android:value="true" />
+
+        <receiver
+            android:name="com.google.android.gms.wallet.EnableWalletOptimizationReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

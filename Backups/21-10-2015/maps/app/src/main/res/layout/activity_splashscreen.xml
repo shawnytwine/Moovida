@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splashscreen">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_SplashLabel"
+        android:layout_gravity="bottom"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:id="@+id/releaseNumber"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:gravity="center"
+            android:text="v0.1.0"
+            android:textColor="#000000"
+            android:visibility="visible"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_SplashIcon"
+        android:layout_gravity="bottom"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+        <ImageView
+            android:id="@+id/splash_icon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.25"
+            android:src="@drawable/splash_icon"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"></ImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_SplashLabel"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <TextView
+            android:id="@+id/copyright_label"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:gravity="center"
+            android:text="Copyright © 2015 by PixelUp Solutions srl"
+            android:textColor="#000000"
+            android:visibility="visible"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/heightLinearPrimo_activityGallery"
+        android:layout_marginBottom="@dimen/height_topAndBottomBarApp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="@dimen/marginTopGridView_gallery">
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="@dimen/sizeTopHeaderIcon_glowSections"
+            android:layout_height="@dimen/sizeTopHeaderIcon_glowSections"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:indeterminate="true"
+            android:indeterminateBehavior="repeat"
+            android:indeterminateDuration="1000"
+            android:visibility="invisible"></ProgressBar>
+    </RelativeLayout>
+</RelativeLayout>
+

@@ -1,0 +1,570 @@
+<!-- 360 dp --><!-- GALAXY S3/S4/S5 -->
+
+<resources>
+
+    <!-- Splash Screen -->
+    <dimen name="height_SplashLabel">50dp</dimen>
+    <dimen name="marginTop_SplashLabel">50dp</dimen>
+    <dimen name="marginBottom_SplashLabel">50dp</dimen>
+    <dimen name="height_SplashIcon">300dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <dimen name="text_credits">18sp</dimen>
+
+    <!-- credits activity -->
+    <dimen name="height_imageback_credits">45dp</dimen>
+    <dimen name="height_imageGallery">260dp</dimen>
+
+    <!--  top and bottom bar -->
+    <dimen name="height_topBarApp">35dp</dimen>
+    <dimen name="height_topAndBottomBarApp">50dp</dimen>
+    <dimen name="paddingTop_topBarApp">6dp</dimen>
+    <dimen name="textSize_topBarApp">18sp</dimen>
+
+    <dimen name="height_topAndBottomBarGames">35dp</dimen>
+    <dimen name="height_topBarGames">95dp</dimen>
+
+    <!--  Games activity -->
+    <dimen name="height_selectionHeaderActivityGames">250dp</dimen>
+    <dimen name="marginTop_listaBottoniActivityGames">190dp</dimen>
+    <dimen name="padding_listaBottoniActivityGames">30dp</dimen>
+    <dimen name="marginBottomRel_listaBottoniActivityGames">4dp</dimen>
+    <dimen name="height_buttonGameActivityGames">60dp</dimen>
+    <dimen name="marginTop_buttonGameActivityGames">4dp</dimen>
+    <dimen name="marginBottom_buttonGameActivityGames">4dp</dimen>
+    <dimen name="marginLeft_buttonGameActivityGames">3dp</dimen>
+    <dimen name="paddingLeft_buttonGameActivityGames">80dp</dimen>
+    <dimen name="textSize_buttonGameActivityGames">18sp</dimen>
+
+    <!-- section headers -->
+    <dimen name="marginTopHeader_glowSections">-220dp</dimen>
+    <dimen name="marginTopLabelTitle_glowSections">5dp</dimen>
+    <dimen name="heightTopLabelTitle_glowSections">40dp</dimen>
+    <dimen name="sizeTopHeaderIcon_glowSections">80dp</dimen>
+
+    <!-- home page activity -->
+    <dimen name="paddingBottomRelParent_activityHome">45dp</dimen>
+    <dimen name="paddingTopRelParent_activityHome">20dp</dimen>
+    <dimen name="labelSize_activityHome">20sp</dimen>
+
+    <!-- col sx -->
+    <dimen name="widthRelColSXPrimo_activityHome">190dp</dimen>
+    <dimen name="heightRelColSXPrimo_activityHome">240dp</dimen>
+    <dimen name="marginTopRelColSXPrimo_activityHome">-50dp</dimen>
+    <!--  museum  -->
+    <dimen name="widthMuseumIcon_activityHome">60dp</dimen>
+    <dimen name="marginTopMuseumIcon_activityHome">90dp</dimen>
+    <dimen name="marginLeftMuseumIcon_activityHome">40dp</dimen>
+    <dimen name="marginTopMuseumLabel_activityHome">155dp</dimen>
+    <dimen name="marginLeftMuseumLabel_activityHome">30dp</dimen>
+    <!-- games  -->
+    <dimen name="widthGamesDropParent_activityHome">170dp</dimen>
+    <dimen name="heightGamesDropParent_activityHome">230dp</dimen>
+    <dimen name="marginTopGamesDropImg_activityHome">-40dp</dimen>
+    <dimen name="widthGamesIcon_activityHome">60dp</dimen>
+    <dimen name="marginTopGamesIcon_activityHome">60dp</dimen>
+    <dimen name="marginLeftGamesIcon_activityHome">35dp</dimen>
+    <dimen name="marginTopGamesLabel_activityHome">130dp</dimen>
+    <dimen name="marginLeftGamesLabel_activityHome">30dp</dimen>
+
+    <!-- news  -->
+    <dimen name="widthNewsDropParent_activityHome">200dp</dimen>
+    <dimen name="heightNewsDropParent_activityHome">240dp</dimen>
+    <dimen name="marginBottomNewsDropParent_activityHome">-10dp</dimen>
+    <dimen name="widthNewsIcon_activityHome">60dp</dimen>
+    <dimen name="marginTopNewsIcon_activityHome">100dp</dimen>
+    <dimen name="marginLeftNewsIcon_activityHome">30dp</dimen>
+    <dimen name="marginTopNewsLabel_activityHome">165dp</dimen>
+    <dimen name="marginLeftNewsLabel_activityHome">35dp</dimen>
+    <!-- col dx -->
+    <!-- gallery -->
+    <dimen name="widthGalleryDrop_activityHome">180dp</dimen>
+    <dimen name="heightGalleryDrop_activityHome">342dp</dimen>
+    <dimen name="widthGalleryIcon_activityHome">60dp</dimen>
+    <dimen name="marginTopGalleryIcon_activityHome">70dp</dimen>
+    <dimen name="marginRightGalleryIcon_activityHome">30dp</dimen>
+    <dimen name="marginTopGalleryLabel_activityHome">135dp</dimen>
+    <dimen name="marginRightGalleryLabel_activityHome">80dp</dimen>
+    <!--  my artist -->
+    <dimen name="widthMyArtistDrop_activityHome">180dp</dimen>
+    <dimen name="heightMyArtistDrop_activityHome">330dp</dimen>
+    <dimen name="widthMyArtistIcon_activityHome">60dp</dimen>
+    <dimen name="marginTopMyArtistIcon_activityHome">170dp</dimen>
+    <dimen name="marginRightMyArtistIcon_activityHome">40dp</dimen>
+    <dimen name="marginTopMyArtistLabel_activityHome">240dp</dimen>
+    <dimen name="marginRightMyArtistLabel_activityHome">65dp</dimen>
+
+    <!--  museum activity -->
+    <dimen name="heightLinearPrimo_activityMuseum">240dp</dimen>
+    <dimen name="marginTopImgMuseum_activityMuseum">10dp</dimen>
+    <dimen name="marginTopLinearSec_activityMuseum">190dp</dimen>
+    <dimen name="heightRelSingoloFoglio_activityMuseum">370dp</dimen>
+    <dimen name="paddingTopSingoloFoglio_activityMuseum">15dp</dimen>
+    <dimen name="paddingAndMarginVariSingoloFoglio_activityMuseum">15dp</dimen>
+    <dimen name="paddingAndMarginTopVariSingoloFoglio_activityMuseum">25dp</dimen>
+    <dimen name="paddingAndMarginText_activityMuseum">20dp</dimen>
+    <dimen name="paddingAndMarginBottomText_activityMuseum">30dp</dimen>
+
+    <dimen name="textSizeSingoloFoglio_activityMuseum">13sp</dimen>
+    <dimen name="paddingRightBoardTtsRel_activityMuseum">30dp</dimen>
+    <dimen name="marginBottomBoardTts_activityMuseum">30dp</dimen>
+    <dimen name="paddingTopTextContact_activityMuseum">2dp</dimen>
+    <dimen name="paddingLeftTextContact_activityMuseum">45dp</dimen>
+    <dimen name="paddingRightTextContact_activityMuseum">40dp</dimen>
+    <dimen name="marginTopTextContact_activityMuseum">25dp</dimen>
+    <dimen name="marginTopImgGalleryAndMuseum_ActivityMuseum">30dp</dimen>
+    <dimen name="heightImgGalleryAndMuseum_AcrivityMuseum">90dp</dimen>
+
+    <dimen name="maxHeighTextIntro_activityMuseum">130dp</dimen>
+    <dimen name="maxHeighTextContact_activityMuseum">280dp</dimen>
+    <dimen name="maxHeighTextExtras_activityMuseum">280dp</dimen>
+
+    <dimen name="paddingAndMarginDescription_activityMuseum">20dp</dimen>
+
+    <dimen name="museumRow_Width">350dp</dimen>
+    <dimen name="museumRow_Height">175dp</dimen>
+    <dimen name="museumRow_TopMargin">8dp</dimen>
+    <dimen name="museumRow_LeftMargin">25dp</dimen>
+    <dimen name="museumSelector_TextSize">16sp</dimen>
+    <dimen name="museumSelector_TextMarginTop">12dp</dimen>
+    <dimen name="museumSelector_TextMarginLeft">6dp</dimen>
+    <dimen name="museumRow_HeaderMargin">22dp</dimen>
+
+    <!-- CutScene -->
+    <dimen name="cutscene_IconSize">90dp</dimen>
+
+
+    <!--  gallery activity -->
+    <dimen name="heightLinearPrimo_activityGallery">300dp</dimen>
+    <dimen name="marginTopLinearPrimo_activityGallery">-10dp</dimen>
+    <dimen name="marginTopLinearSec_activityGallery">240dp</dimen>
+    <dimen name="paddingLinearSec_activityGallery">20dp</dimen>
+    <dimen name="heightGalleryButton_activityGallery">64dp</dimen>
+    <dimen name="marginBottomGalleryButton_activityGallery">2dp</dimen>
+    <dimen name="widthImgGallery_activityGallery">60dp</dimen>
+    <dimen name="paddingLeftTextGalleryMenu_activityGallery">80dp</dimen>
+    <dimen name="textSizeGalleryMenu_activityGallery">22sp</dimen>
+    <dimen name="marginTopGridView_gallery">240dp</dimen>
+    <dimen name="gridView_BottomMargin">50dp</dimen>
+    <dimen name="detailGallery_ImagePadding">25dp</dimen>
+
+    <dimen name="galleryDetail_TitleSize">15sp</dimen>
+    <dimen name="galleryDetail_DescSize">12sp</dimen>
+    <dimen name="galleryDetail_MinorSize">11sp</dimen>
+
+    <dimen name="tagWord_Height">40dp</dimen>
+    <dimen name="tagWord_HeightSm">30dp</dimen>
+    <dimen name="tagWord_TextSize">18sp</dimen>
+    <dimen name="tagWord_TextSizeSm">16sp</dimen>
+
+    <dimen name="tasModule_GridMarginLR">12dp</dimen>
+    <dimen name="tagsModule_GridWidth">230dp</dimen>
+
+    <!-- gallery stickers -->
+    <dimen name="smiliePopup_Height">60dp</dimen>
+    <dimen name="stickerModule_MarginLR">14dp</dimen>
+
+
+    <!--  avatar activity -->
+    <dimen name="heightLinearPrimo_activityAvatar">250dp</dimen>
+    <dimen name="marginTopLinearPrimo_activityAvatar">50dp</dimen>
+    <dimen name="marginTopLinearSec_activityAvatar">220dp</dimen>
+    <dimen name="paddingLinearSec_activityAvatar">20dp</dimen>
+    <dimen name="heightAvatarButton_activityAvatar">90dp</dimen>
+    <dimen name="paddingAvatarButton_activityAvatar">9dp</dimen>
+    <dimen name="marginBottomAvatarButton_activityAvatar">2dp</dimen>
+    <dimen name="widthImgAvatar_activityAvatar">90dp</dimen>
+    <dimen name="paddingImgAvatar_activityAvatar">0dp</dimen>
+    <dimen name="paddingLeftTextAvatarMenu_activityAvatar">90dp</dimen>
+    <dimen name="textSizeAvatarMenu_activityAvatar">22sp</dimen>
+    <dimen name="textSizeBanner_activityAvatar">18sp</dimen>
+    <dimen name="textMarginBanner_activityAvatar">-90dp</dimen>
+    <dimen name="textPaddingBanner_activityAvatar">20dp</dimen>
+    <dimen name="baloonTextSize_myavatarSection">16sp</dimen>
+
+    <!--  avatar activity -->
+    <dimen name="heightLinearPrimo_activityPreferences">250dp</dimen>
+    <dimen name="marginTopLinearPrimo_activityPreferences">-10dp</dimen>
+    <dimen name="marginTopLinearSec_activityPreferences">250dp</dimen>
+    <dimen name="paddingLinearSec_activityPreferences">20dp</dimen>
+    <dimen name="heightPreferencesButton_activityPreferences">55dp</dimen>
+    <dimen name="paddingPreferencesButton_activityPreferences">9dp</dimen>
+    <dimen name="marginBottomPreferencesButton_activityPreferences">2dp</dimen>
+    <dimen name="widthImgPreferences_activityPreferences">55dp</dimen>
+    <dimen name="paddingImgPreferences_activityPreferences">2dp</dimen>
+    <dimen name="paddingLeftTextPreferencesMenu_activityPreferences">60dp</dimen>
+    <dimen name="textSizePreferencesMenu_activityPreferences">20sp</dimen>
+
+    <dimen name="avatarSelector_myAvatarSection">130dp</dimen>
+    <dimen name="MyAvatar_coinsTextSize">16sp</dimen>
+
+    <!--  landingPage activity -->
+    <dimen name="marginTopRel_landingPage">48dp</dimen>
+    <dimen name="paddingMuseumHeader_landingPage">30dp</dimen>
+    <dimen name="marginTopTextContainer_landingPage">100dp</dimen>
+    <dimen name="marginLeftTextContainer_landingPage">20dp</dimen>
+    <dimen name="marginRightTextContainer_landingPage">20dp</dimen>
+    <dimen name="marginBottomTextContainer_landingPage">60dp</dimen>
+    <dimen name="paddingTextContainer_landingPage">10dp</dimen>
+    <dimen name="paddingLinearScrollView_landingPage">10dp</dimen>
+    <dimen name="marginTopScrollView_landingPage">60dp</dimen>
+    <dimen name="marginBottomScrollView_landingPage">35dp</dimen>
+    <dimen name="marginLeftScrollView_landingPage">30dp</dimen>
+    <dimen name="logoHeight_landingPage">50dp</dimen>
+    <dimen name="textSizeScrollView_landingPage">14sp</dimen>
+    <dimen name="marginTopTextScrollView_landingPage">10dp</dimen>
+
+    <!-- museumSelector activity -->
+    <dimen name="marginTopLinear_museumSelector">60dp</dimen>
+    <dimen name="paddingLinearButtonList_museumSelector">40dp</dimen>
+    <dimen name="heightRel_museumSelector">75dp</dimen>
+    <dimen name="paddingRel_museumSelector">2dp</dimen>
+    <dimen name="marginBottomRel_museumSelector">2dp</dimen>
+    <dimen name="heightTopBar_museumSelector">60dp</dimen>
+    <dimen name="marginTopTopBar_museumSelector">20dp</dimen>
+    <dimen name="marginLeftTopBar_museumSelector">50dp</dimen>
+    <dimen name="marginRightTopBar_museumSelector">50dp</dimen>
+
+    <!-- textSize topBar games -->
+    <dimen name="textSizeMovesAndScoreWord_Game">14sp</dimen>
+    <dimen name="textSizeMovesAndScoreNumber_Game">20sp</dimen>
+    <dimen name="textSizeMainTitle_Game">16sp</dimen>
+    <dimen name="marginTopTotalTime_Game">16dp</dimen>
+    <dimen name="textSizeTotalTime_Game">26sp</dimen>
+    <dimen name="gamesUI_TopLabel">12sp</dimen>
+    <dimen name="gamesUI_TopValue">14sp</dimen>
+
+    <!-- Game Tutorial -->
+    <dimen name="tutorialText_Size">16sp</dimen>
+    <dimen name="gamesDialog_W">300dp</dimen>
+    <dimen name="gamesDialog_H">360dp</dimen>
+    <dimen name="preferencesInGame_HeaderH">120dp</dimen>
+
+
+    <!-- Win Recap -->
+    <dimen name="winRecap_ButtonSize">100dp</dimen>
+    <dimen name="winRecap_TextSize_Large">20sp</dimen>
+    <dimen name="winRecap_TextSize_Small">18sp</dimen>
+
+    <!-- memoryGame -->
+    <dimen name="paddingFastZoomImage_memoryGame">20dp</dimen>
+    <dimen name="marginLeftTextDescriptionImage_memoryGame">5dp</dimen>
+    <dimen name="marginTopTextDescriptionImage_memoryGame">10dp</dimen>
+    <dimen name="textSizeTitleDescriptionImage_memoryGame">15sp</dimen>
+    <dimen name="textSizeHeaderAndMovementDescriptionImage_memoryGame">14sp</dimen>
+    <dimen name="marginTopItemTextDescriptionImage_memoryGame">10dp</dimen>
+    <dimen name="textSizeItemDesctiptionImage_memoryGame">12sp</dimen>
+
+    <!--  search game  -->
+    <dimen name="widthGridViewWord_searchGame">110dp</dimen>
+    <dimen name="searchgame_hPadding">8dp</dimen>
+    <dimen name="searchgame_vPadding">19dp</dimen>
+    <dimen name="searchgame_hWordsSize">22sp</dimen>
+    <dimen name="heightItemSearchViewWord_matchGame">35dp</dimen>
+    <dimen name="widthItemSearchViewWord_matchGame">175dp</dimen>
+    <dimen name="searchgame_hWordsColumnWidth">100dp</dimen>
+
+    <!-- match Game -->
+    <dimen name="heightFirstGridView_matchGame">143dp</dimen>
+    <dimen name="columnWidthFirstGridView_matchGame">160dp</dimen>
+    <dimen name="marginTopFirstGridView_matchGame">10dp</dimen>
+    <dimen name="marginLeftSecondGridView_matchGame">160dp</dimen>
+    <dimen name="marginRightSecondGridView_matchGame">0dp</dimen>
+    <dimen name="marginTopSecondGridView_matchGame">163dp</dimen>
+    <dimen name="columnWidthSecondGridView_matchGame">200dp</dimen>
+    <dimen name="heightItemGridViewImage_matchGame">120dp</dimen>
+    <dimen name="widthItemGridViewImage_matchGame">90dp</dimen>
+    <dimen name="widthCorniceItemGridViewImage_matchGame">120dp</dimen>
+    <dimen name="heightCorniceItemGridViewImage_matchGame">144dp</dimen>
+    <dimen name="heightItemGridViewWord_matchGame">72dp</dimen>
+    <dimen name="widthItemGridViewWord_matchGame">240dp</dimen>
+    <dimen name="textSizeItemGridViewWord_matchGame">18sp</dimen>
+
+    <!-- grid Game -->
+    <dimen name="gridgame_bonusTextSize">16sp</dimen>
+    <dimen name="gridGame_BonusTextPadding">13dp</dimen>
+
+    <!-- inGame Sheet -->
+    <dimen name="detailInGame_ImagePadding">40dp</dimen>
+    <dimen name="detailInGame_FastImagePadding">20dp</dimen>
+
+    <!--  games startup menu-->
+    <dimen name="heightFirstLinear_gamesStartup">210dp</dimen>
+    <dimen name="marginTopGamesHeader_gamesStartup">0dp</dimen>
+    <dimen name="paddingTopLabelTitle_gamesStartup">2dp</dimen>
+    <dimen name="marginTopLabelTitle_gamesStartup">-35dp</dimen>
+    <dimen name="textSizeLabelTitle_gamesStartup">20sp</dimen>
+    <dimen name="marginTopSecondLinear_gamesStartup">220dp</dimen>
+    <dimen name="paddingSecondLinear_gamesStartup">10dp</dimen>
+    <dimen name="heightButton_gamesStartup">60dp</dimen>
+    <dimen name="paddingButton_gamesStartup">9dp</dimen>
+    <dimen name="marginBottomButton_gamesStartup">2dp</dimen>
+    <dimen name="widthGameIconAndLogo_gamesStartup">50dp</dimen>
+    <dimen name="paddingLeftText_gamesStartup">80dp</dimen>
+    <dimen name="textSize_gamesStartup">18sp</dimen>
+    <dimen name="marginBottomTerzoLinear_gamesStartup">60dp</dimen>
+    <dimen name="marginBottomTextChooseDifficulty_gamesStartup">10dp</dimen>
+    <dimen name="heightQuartoLinear_gamesStartup">140dp</dimen>
+
+    <!--  news activity -->
+    <dimen name="heightLinearPrimo_activityNews">240dp</dimen>
+    <dimen name="marginTopImgMuseum_activityNews">-60dp</dimen>
+    <dimen name="marginTopFragment_activityNews">230dp</dimen>
+
+    <dimen name="newsDetail_ImageH">120dp</dimen>
+    <dimen name="newsDetail_TextInterline">6dp</dimen>
+    <dimen name="newsDetail_DescTextInterline">12dp</dimen>
+
+    <!--  news row layout -->
+    <dimen name="widthFirstRel_newsRow">345dp</dimen>
+    <dimen name="heightFirtsRel_newsRow">150dp</dimen>
+    <dimen name="marginLeftPreviewImage_newsRow">32dp</dimen>
+    <dimen name="marginLeftImageText_newsRow">0dp</dimen>
+    <dimen name="marginTopViewHeader_newsRow">22dp</dimen>
+    <dimen name="marginTopLinearText_newsRow">10dp</dimen>
+    <dimen name="marginLeftLinearText_newsRow">20dp</dimen>
+    <dimen name="textSizeTitle_newsRow">11sp</dimen>
+    <dimen name="textSizeSubTitle_newsRow">9sp</dimen>
+
+    <!-- news detail -->
+    <dimen name="newsDetail_titleFontSize">16sp</dimen>
+    <dimen name="newsDetail_subFontSize">13sp</dimen>
+
+    <!--  gallery rows -->
+    <dimen name="horizontalSpacing_GalleryRows">20dip</dimen>
+    <dimen name="verticalSpacing_GalleryRows">20dip</dimen>
+
+    <!-- win activity -->
+    <dimen name="textSizePointsAndStarLabel_winActivity">20sp</dimen>
+    <dimen name="textSizePointsAndStarNumber_winActivity">18dp</dimen>
+    <dimen name="widthButtonOk_winActivity">100dp</dimen>
+
+    <!--  stats fragment -->
+    <dimen name="heightFirstRel_statsFragment">500dp</dimen>
+    <dimen name="widhtTextViewStatistiche_statsFragment">350dp</dimen>
+    <dimen name="heightFirstLinear_statsFragment">190dp</dimen>
+    <dimen name="marginTopFirstLinear_statsFragment">60dp</dimen>
+    <dimen name="marginLeftFirstLinear_statsFragment">30dp</dimen>
+    <dimen name="marginRightFirstLinear_statsFragment">30dp</dimen>
+    <dimen name="textSizeStatisticLabel_statsFragment">18sp</dimen>
+    <dimen name="textSizeStatisticNumber_statsFragment">16sp</dimen>
+    <dimen name="textSizeTitle_statsFragment">24sp</dimen>
+
+
+    <array name="sizes">
+        <item>@dimen/text_credits</item>
+        <item>@dimen/height_imageback_credits</item>
+
+        <item>@dimen/height_topAndBottomBarApp</item>
+        <item>@dimen/paddingTop_topBarApp</item>
+        <item>@dimen/textSize_topBarApp</item>
+
+        <item>@dimen/height_imageGallery</item>
+        <item>@dimen/height_selectionHeaderActivityGames</item>
+        <item>@dimen/marginTop_listaBottoniActivityGames</item>
+        <item>@dimen/padding_listaBottoniActivityGames</item>
+        <item>@dimen/marginBottomRel_listaBottoniActivityGames</item>
+        <item>@dimen/height_buttonGameActivityGames</item>
+        <item>@dimen/marginTop_buttonGameActivityGames</item>
+        <item>@dimen/marginBottom_buttonGameActivityGames</item>
+        <item>@dimen/marginLeft_buttonGameActivityGames</item>
+        <item>@dimen/paddingLeft_buttonGameActivityGames</item>
+        <item>@dimen/textSize_buttonGameActivityGames</item>
+
+        <item>@dimen/marginTopMuseumLabel_activityHome</item>
+        <item>@dimen/marginLeftMuseumLabel_activityHome</item>
+        <item>@dimen/marginTopGamesLabel_activityHome</item>
+        <item>@dimen/marginLeftGamesLabel_activityHome</item>
+        <item>@dimen/marginTopNewsLabel_activityHome</item>
+        <item>@dimen/marginLeftNewsLabel_activityHome</item>
+        <item>@dimen/marginTopGalleryLabel_activityHome</item>
+        <item>@dimen/marginRightGalleryLabel_activityHome</item>
+        <item>@dimen/marginTopMyArtistLabel_activityHome</item>
+        <item>@dimen/marginRightMyArtistLabel_activityHome</item>
+
+        <item>@dimen/labelSize_activityHome</item>
+
+        <item>@dimen/paddingBottomRelParent_activityHome</item>
+        <item>@dimen/paddingTopRelParent_activityHome</item>
+        <item>@dimen/widthRelColSXPrimo_activityHome</item>
+        <item>@dimen/heightRelColSXPrimo_activityHome</item>
+        <item>@dimen/marginTopRelColSXPrimo_activityHome</item>
+        <item>@dimen/widthMuseumIcon_activityHome</item>
+        <item>@dimen/marginTopMuseumIcon_activityHome</item>
+        <item>@dimen/marginLeftMuseumIcon_activityHome</item>
+        <item>@dimen/widthGamesDropParent_activityHome</item>
+        <item>@dimen/heightGamesDropParent_activityHome</item>
+        <item>@dimen/marginTopGamesDropImg_activityHome</item>
+        <item>@dimen/widthGamesIcon_activityHome</item>
+        <item>@dimen/marginTopGamesIcon_activityHome</item>
+        <item>@dimen/marginLeftGamesIcon_activityHome</item>
+        <item>@dimen/widthNewsDropParent_activityHome</item>
+        <item>@dimen/heightNewsDropParent_activityHome</item>
+        <item>@dimen/marginBottomNewsDropParent_activityHome</item>
+        <item>@dimen/widthNewsIcon_activityHome</item>
+        <item>@dimen/marginTopNewsIcon_activityHome</item>
+        <item>@dimen/marginLeftNewsIcon_activityHome</item>
+        <item>@dimen/widthGalleryDrop_activityHome</item>
+        <item>@dimen/heightGalleryDrop_activityHome</item>
+        <item>@dimen/widthGalleryIcon_activityHome</item>
+        <item>@dimen/marginTopGalleryIcon_activityHome</item>
+        <item>@dimen/marginRightGalleryIcon_activityHome</item>
+        <item>@dimen/widthMyArtistDrop_activityHome</item>
+        <item>@dimen/heightMyArtistDrop_activityHome</item>
+        <item>@dimen/widthMyArtistDrop_activityHome</item>
+        <item>@dimen/widthMyArtistIcon_activityHome</item>
+        <item>@dimen/marginTopMyArtistIcon_activityHome</item>
+        <item>@dimen/marginRightMyArtistIcon_activityHome</item>
+
+        <item>@dimen/heightLinearPrimo_activityMuseum</item>
+        <item>@dimen/marginTopImgMuseum_activityMuseum</item>
+        <item>@dimen/marginTopLinearSec_activityMuseum</item>
+        <item>@dimen/heightRelSingoloFoglio_activityMuseum</item>
+        <item>@dimen/paddingTopSingoloFoglio_activityMuseum</item>
+        <item>@dimen/paddingAndMarginVariSingoloFoglio_activityMuseum</item>
+        <item>@dimen/textSizeSingoloFoglio_activityMuseum</item>
+        <item>@dimen/paddingRightBoardTtsRel_activityMuseum</item>
+        <item>@dimen/marginBottomBoardTts_activityMuseum</item>
+        <item>@dimen/paddingTopTextContact_activityMuseum</item>
+        <item>@dimen/paddingLeftTextContact_activityMuseum</item>
+        <item>@dimen/paddingRightTextContact_activityMuseum</item>
+        <item>@dimen/marginTopTextContact_activityMuseum</item>
+        <item>@dimen/marginTopImgGalleryAndMuseum_ActivityMuseum</item>
+        <item>@dimen/heightImgGalleryAndMuseum_AcrivityMuseum</item>
+
+        <item>@dimen/heightLinearPrimo_activityGallery</item>
+        <item>@dimen/marginTopLinearPrimo_activityGallery</item>
+        <item>@dimen/marginTopLinearSec_activityGallery</item>
+        <item>@dimen/paddingLinearSec_activityGallery</item>
+        <item>@dimen/heightGalleryButton_activityGallery</item>
+        <item>@dimen/marginBottomGalleryButton_activityGallery</item>
+        <item>@dimen/widthImgGallery_activityGallery</item>
+        <item>@dimen/textSizeGalleryMenu_activityGallery</item>
+
+        <item>@dimen/heightLinearPrimo_activityAvatar</item>
+        <item>@dimen/marginTopLinearPrimo_activityAvatar</item>
+        <item>@dimen/marginTopLinearSec_activityAvatar</item>
+        <item>@dimen/paddingLinearSec_activityAvatar</item>
+        <item>@dimen/heightAvatarButton_activityAvatar</item>
+        <item>@dimen/paddingAvatarButton_activityAvatar</item>
+        <item>@dimen/marginBottomAvatarButton_activityAvatar</item>
+        <item>@dimen/widthImgAvatar_activityAvatar</item>
+        <item>@dimen/paddingImgAvatar_activityAvatar</item>
+        <item>@dimen/textSizeAvatarMenu_activityAvatar</item>
+
+        <item>@dimen/heightLinearPrimo_activityPreferences</item>
+        <item>@dimen/marginTopLinearPrimo_activityPreferences</item>
+        <item>@dimen/marginTopLinearSec_activityPreferences</item>
+        <item>@dimen/paddingLinearSec_activityPreferences</item>
+        <item>@dimen/heightPreferencesButton_activityPreferences</item>
+        <item>@dimen/paddingPreferencesButton_activityPreferences</item>
+        <item>@dimen/marginBottomPreferencesButton_activityPreferences</item>
+        <item>@dimen/widthImgPreferences_activityPreferences</item>
+        <item>@dimen/paddingImgPreferences_activityPreferences</item>
+        <item>@dimen/textSizePreferencesMenu_activityPreferences</item>
+
+        <item>@dimen/marginTopRel_landingPage</item>
+        <item>@dimen/paddingMuseumHeader_landingPage</item>
+        <item>@dimen/marginTopTextContainer_landingPage</item>
+        <item>@dimen/marginLeftTextContainer_landingPage</item>
+        <item>@dimen/marginRightTextContainer_landingPage</item>
+        <item>@dimen/marginBottomTextContainer_landingPage</item>
+        <item>@dimen/paddingTextContainer_landingPage</item>
+        <item>@dimen/paddingLinearScrollView_landingPage</item>
+        <item>@dimen/textSizeScrollView_landingPage</item>
+        <item>@dimen/marginTopTextScrollView_landingPage</item>
+
+        <item>@dimen/marginTopLinear_museumSelector</item>
+        <item>@dimen/paddingLinearButtonList_museumSelector</item>
+        <item>@dimen/heightRel_museumSelector</item>
+        <item>@dimen/paddingRel_museumSelector</item>
+        <item>@dimen/marginBottomRel_museumSelector</item>
+        <item>@dimen/heightTopBar_museumSelector</item>
+        <item>@dimen/marginTopTopBar_museumSelector</item>
+        <item>@dimen/marginLeftTopBar_museumSelector</item>
+        <item>@dimen/marginRightTopBar_museumSelector</item>
+
+        <item>@dimen/textSizeMovesAndScoreWord_Game</item>
+        <item>@dimen/textSizeMovesAndScoreNumber_Game</item>
+        <item>@dimen/textSizeMainTitle_Game</item>
+        <item>@dimen/marginTopTotalTime_Game</item>
+        <item>@dimen/textSizeTotalTime_Game</item>
+
+        <item>@dimen/paddingFastZoomImage_memoryGame</item>
+        <item>@dimen/marginLeftTextDescriptionImage_memoryGame</item>
+        <item>@dimen/marginTopTextDescriptionImage_memoryGame</item>
+        <item>@dimen/textSizeTitleDescriptionImage_memoryGame</item>
+        <item>@dimen/textSizeHeaderAndMovementDescriptionImage_memoryGame</item>
+        <item>@dimen/marginTopItemTextDescriptionImage_memoryGame</item>
+        <item>@dimen/textSizeItemDesctiptionImage_memoryGame</item>
+
+        <item>@dimen/widthGridViewWord_searchGame</item>
+
+        <item>@dimen/heightFirstGridView_matchGame</item>
+        <item>@dimen/columnWidthFirstGridView_matchGame</item>
+        <item>@dimen/marginTopFirstGridView_matchGame</item>
+        <item>@dimen/marginLeftSecondGridView_matchGame</item>
+        <item>@dimen/marginRightSecondGridView_matchGame</item>
+        <item>@dimen/marginTopSecondGridView_matchGame</item>
+        <item>@dimen/columnWidthSecondGridView_matchGame</item>
+        <item>@dimen/heightItemGridViewImage_matchGame</item>
+        <item>@dimen/widthItemGridViewImage_matchGame</item>
+        <item>@dimen/widthCorniceItemGridViewImage_matchGame</item>
+        <item>@dimen/heightCorniceItemGridViewImage_matchGame</item>
+        <item>@dimen/heightItemGridViewWord_matchGame</item>
+        <item>@dimen/widthItemGridViewWord_matchGame</item>
+        <item>@dimen/textSizeItemGridViewWord_matchGame</item>
+
+        <item>@dimen/heightFirstLinear_gamesStartup</item>
+        <item>@dimen/marginTopGamesHeader_gamesStartup</item>
+        <item>@dimen/paddingTopLabelTitle_gamesStartup</item>
+        <item>@dimen/marginTopLabelTitle_gamesStartup</item>
+        <item>@dimen/textSizeLabelTitle_gamesStartup</item>
+        <item>@dimen/marginTopSecondLinear_gamesStartup</item>
+        <item>@dimen/paddingSecondLinear_gamesStartup</item>
+        <item>@dimen/heightButton_gamesStartup</item>
+        <item>@dimen/paddingButton_gamesStartup</item>
+        <item>@dimen/marginBottomButton_gamesStartup</item>
+        <item>@dimen/widthGameIconAndLogo_gamesStartup</item>
+        <item>@dimen/paddingLeftText_gamesStartup</item>
+        <item>@dimen/textSize_gamesStartup</item>
+        <item>@dimen/marginBottomTerzoLinear_gamesStartup</item>
+        <item>@dimen/marginBottomTextChooseDifficulty_gamesStartup</item>
+        <item>@dimen/heightQuartoLinear_gamesStartup</item>
+
+        <item>@dimen/heightLinearPrimo_activityNews</item>
+        <item>@dimen/marginTopImgMuseum_activityNews</item>
+        <item>@dimen/marginTopFragment_activityNews</item>
+
+        <item>@dimen/widthFirstRel_newsRow</item>
+        <item>@dimen/heightFirtsRel_newsRow</item>
+        <item>@dimen/marginLeftPreviewImage_newsRow</item>
+        <item>@dimen/marginLeftImageText_newsRow</item>
+        <item>@dimen/marginTopViewHeader_newsRow</item>
+        <item>@dimen/marginTopLinearText_newsRow</item>
+        <item>@dimen/marginLeftLinearText_newsRow</item>
+        <item>@dimen/textSizeTitle_newsRow</item>
+        <item>@dimen/textSizeSubTitle_newsRow</item>
+
+        <item>@dimen/horizontalSpacing_GalleryRows</item>
+        <item>@dimen/verticalSpacing_GalleryRows</item>
+
+        <item>@dimen/textSizePointsAndStarLabel_winActivity</item>
+        <item>@dimen/textSizePointsAndStarNumber_winActivity</item>
+        <item>@dimen/widthButtonOk_winActivity</item>
+
+        <item>@dimen/heightFirstRel_statsFragment</item>
+        <item>@dimen/widhtTextViewStatistiche_statsFragment</item>
+        <item>@dimen/heightFirstLinear_statsFragment</item>
+        <item>@dimen/marginTopFirstLinear_statsFragment</item>
+        <item>@dimen/marginLeftFirstLinear_statsFragment</item>
+        <item>@dimen/marginRightFirstLinear_statsFragment</item>
+        <item>@dimen/textSizeStatisticLabel_statsFragment</item>
+        <item>@dimen/textSizeStatisticNumber_statsFragment</item>
+        <item>@dimen/textSizeTitle_statsFragment</item>
+
+
+    </array>
+</resources>

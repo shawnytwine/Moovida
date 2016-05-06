@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2012 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!-- This can go anywhere in your layout (see other demos for some examples). -->
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical" >
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Do you want a fine accuracy or not?" />
+        <TextView
+            android:id="@+id/choice"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="coarse accuracy selected (default)" />
+        <CheckBox
+            android:id="@+id/fineAccuracy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fine accuracy" />
+        <Button
+            android:id="@+id/chooseRadio"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OK" />
+        <TextView
+            android:id="@+id/prov"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="No provider selected yet"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/lat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Latitude: -"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/lon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Longitude: -"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/alt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Altitude: -"
+            android:textSize="20dp" />
+        <TextView
+            android:id="@+id/hea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Heading: -"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+    <fragment
+      android:id="@+id/map"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      class="com.google.android.gms.maps.SupportMapFragment" />
+
+</LinearLayout>
